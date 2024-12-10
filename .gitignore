@@ -68,6 +68,9 @@ ScaffoldingReadMe.txt
 # StyleCop
 StyleCopReport.xml
 
+# Logs folder
+*.logs
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
@@ -75,6 +78,7 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
+*.bin
 *.iobj
 *.pch
 *.pdb
